@@ -8,5 +8,5 @@
 ### get data
     db.get(1, "product");
 ### remove data
-db.remove(1, "product");
+    db.remove(1, "product");
 
