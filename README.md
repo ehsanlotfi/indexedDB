@@ -1,4 +1,4 @@
-##  CURD of indexedDB
+#  CURD of indexedDB
 ### set dataBase name
     var db = new indexDB("myDB");
 ### create new table
